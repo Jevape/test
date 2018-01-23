@@ -1,6 +1,6 @@
 package es.studium.MiPaquete;
 
-public class MiClase {
+public class MiClase2 {
 	private int nuevoAtributo;
 
 	public int getNuevoAtributo() {
